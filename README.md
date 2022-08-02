@@ -2,7 +2,7 @@
 
 **Problem Statement:**
 
-Using NLP to train a classifier on which subreddit a post came from, specifically between r/books and r/Fantasy, we want to determine the best Pipeline Classifiers that dictate a r/Fantasy post.
+Using NLP to train a model via pipeline on which subreddit a post came from, specifically between r/books and r/Fantasy, we want to determine the best Pipeline Classifiers that dictate a r/Fantasy post.
 
 ---
 ### Datasets
